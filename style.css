@@ -1,7 +1,9 @@
 *{
     font-family: 'Tilt Neon', sans-serif;
 }
-body{background-color: blue}
+body{
+    background-color: blue;
+}
 .sec1 {
     background-image: url(./images/background.png);
     background-repeat: no-repeat;
